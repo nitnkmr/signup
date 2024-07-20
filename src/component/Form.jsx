@@ -15,7 +15,7 @@ const Form = () => {
         <form action="">
             <input type="email" name="email" id="email"  placeholder='Email'/>
             <input type="password" name="password" id="password" placeholder='Password'/>
-            <input type="password" name="confirm_password" id="password" placeholder='Confirm Password' />
+            <input type="password" name="confirm_password" id="password" placeholder='Re-enter Password' />
             <div className="checkBoxConatiner">
             <div className="checkBox">
                 <input type="checkbox" name="remember" id="remember" />
